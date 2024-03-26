@@ -1,1 +1,2 @@
 New xyz feature logic
+This is a new feature
